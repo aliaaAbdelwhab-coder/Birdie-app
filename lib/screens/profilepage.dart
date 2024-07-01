@@ -1,4 +1,5 @@
 import 'dart:isolate';
+
 import 'package:birdie_app/screens/devicemanagement.dart';
 import 'package:birdie_app/screens/settings.dart';
 import 'package:flutter/material.dart';

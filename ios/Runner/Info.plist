@@ -13,7 +13,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>Birdie</string>
+	<string>birdie_app</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -45,14 +45,5 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
-	<key>NSLocationAlwaysUsageDescription</key>
-    <string>We need your location to provide geofencing services.</string>
-    <key>NSLocationWhenInUseUsageDescription</key>
-    <string>We need your location to provide geofencing services.</string>
-    <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
-    <string>We need your location to provide geofencing services.</string>
-    <string>We need your location to show your current position on the map.</string>
-    <string>We need your location to show your current position on the map.</string>
-
 </dict>
 </plist>
